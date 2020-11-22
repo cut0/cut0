@@ -1,14 +1,8 @@
-### Hi there 👋
+### こんにちはー 👋
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cut0&count_private=true&show_icons=true&theme=shades-of-purple" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cut0&layout=compact&theme=shades-of-purple" />
-  </a>
- </div>
-<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cut0&show_icons=true&theme=shades-of-purple&count_private=true)](https://github.com/cut0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cut0&theme=shades-of-purple&layout=compact)](https://github.com/cut0)
 
 Here are some ideas to get you started:
 
