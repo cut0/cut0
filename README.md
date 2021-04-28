@@ -7,5 +7,5 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on ...　株式会社フューチャーリンクネットワーク
+- 🔭 I’m currently working on ...　株式会社ミクシィ
 - 🌱 I’m currently learning ...　Web Frontend
