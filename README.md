@@ -6,6 +6,6 @@
 
 Here are some ideas to get you started:
 
-
-- 🔭 I’m currently working on ...　株式会社ミクシィ
-- 🌱 I’m currently learning ...　Web Frontend
+- working on ...　株式会社ミクシィ
+- learning ...　Webフロントエンド触ってます
+- [about me](https://portfolio-ray.web.app/)
