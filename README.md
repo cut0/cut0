@@ -6,6 +6,8 @@
 
 Here are some ideas to get you started:
 
-- working on ...　株式会社ミクシィ
+- working on ...　ニート
+- worked on ... 株式会社ミクシィ
+- worked on ... 株式会社フューチャーリンクネットワーク
 - learning ...　Webフロントエンド触ってます
 - [about me](https://portfolio-ray.web.app/)
