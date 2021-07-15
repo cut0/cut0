@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- working on ...　ニート
+- working on ... 株式会社ピクシブ
 - worked on ... 株式会社ミクシィ
 - worked on ... 株式会社フューチャーリンクネットワーク
 - learning ...　Webフロントエンド触ってます
