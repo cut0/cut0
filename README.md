@@ -6,7 +6,9 @@
 
 Here are some ideas to get you started:
 
-- working on ... 株式会社サイバーエージェント
+- working on ... 株式会社ミクシィ
+- worked on ... 株式会社DMM
+- worked on ... 株式会社サイバーエージェント
 - worked on ... 株式会社ピクシブ
 - worked on ... 株式会社ミクシィ
 - worked on ... 株式会社フューチャーリンクネットワーク
