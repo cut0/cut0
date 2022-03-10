@@ -7,7 +7,7 @@
 - working on ... 株式会社ミクシィ
 - worked on ... 合同会社DMM.com
 - worked on ... 株式会社サイバーエージェント
-- worked on ... 株式会社ピクシブ
+- worked on ... ピクシブ株式会社
 - worked on ... 株式会社ミクシィ
 - worked on ... 株式会社フューチャーリンクネットワーク
 - learning ...　web frontend
