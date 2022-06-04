@@ -1,8 +1,16 @@
 ### Hello 👋
 #### My name is Ray, and I'm a university student.
+<table>
+ <tr>
+  <td><img src="/github-metrics.svg" alt="Metrics" /></td>
+  <td><img src="/metrics.plugin.languages.svg" alt="Metrics" /></td>
+ </tr>
+ <tr>
+  <td><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="100%"></td>
+  <td>　<img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="100%"/></td>
+ </tr>
+</table>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cut0&show_icons=true&theme=shades-of-purple&count_private=true)](https://github.com/cut0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cut0&theme=shades-of-purple&layout=compact)](https://github.com/cut0)
 
 - 2021.04.18 ~ ... 株式会社エウレカ
 - 2021.10.18 ~ 2021.03.31 ... 株式会社ミクシィ
