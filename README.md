@@ -20,4 +20,4 @@
 - 2021.02.01 ~ 2021.06.30 ... 株式会社ミクシィ
 - 2020.01.01 ~ 2021.01.31 ... 株式会社フューチャーリンクネットワーク
 - learning ...　web frontend
-- [about me](https://portfolio-ray.web.app/)
+- [about me](https://cut0-portfolio.vercel.app/)
